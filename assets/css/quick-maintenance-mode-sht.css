@@ -1,0 +1,67 @@
+
+/*--------------------------- 
+Add Plugin Front-End CSS here 
+---------------------------*/
+
+/*--------------------------- 
+Responsive CSS here 
+---------------------------*/
+
+body,html {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+ /* 
+Medium/Large Screens 
+*/
+
+@media only screen and (max-width: 1430px) {
+
+}
+/*
+Medium Screens 
+*/
+@media only screen and (max-width: 1280px) {
+
+}
+/*
+Large Tablet Screens 
+*/
+@media only screen and (max-width: 1140px) {
+
+}
+@media only screen and (max-width: 980px) {
+
+}
+/*
+Medium Tablet Screens 
+*/
+@media only screen and (max-width: 768px) {
+
+}
+/*
+Small Tablet/Largest Phone Screens 
+*/
+@media only screen and (max-width: 600px) {
+
+}
+/*
+Large Phone Screens 
+*/
+@media only screen and (max-width: 420px) {
+
+}
+/*
+Medium Phone Screens 
+*/
+@media only screen and (max-width: 380px) {
+
+}
+/*
+Small Phone / Apple Watch Screens 
+*/
+@media only screen and (max-width: 320px) {
+
+}
